@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".xpulse">
+
+
+    <LinearLayout
+        android:id="@+id/toppr"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+
+        <ImageButton
+            android:id="@+id/bt_previous"
+            android:layout_width="50dp"
+            android:layout_height="200dp"
+            android:layout_margin="20dp"
+            android:background="@android:color/transparent"
+            android:src="@drawable/ic_baseline_navigate_before"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <ImageSwitcher
+            android:id="@+id/image_switcher"
+            android:layout_width="300dp"
+            android:layout_height="250dp"></ImageSwitcher>
+
+        <ImageButton
+            android:id="@+id/bt_next"
+            android:layout_margin="20dp"
+
+            android:layout_width="50dp"
+            android:layout_height="230dp"
+            android:background="@android:color/transparent"
+            android:contentDescription="TODO"
+            android:src="@drawable/ic_baseline_navigate_next" />
+
+
+    </LinearLayout>
+
+    <RelativeLayout
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <WebView
+            android:layout_marginTop="300dp"
+            android:id="@+id/webview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+    </RelativeLayout>
+
+
+</RelativeLayout>

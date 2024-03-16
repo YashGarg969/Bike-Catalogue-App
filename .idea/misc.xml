@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/drawable/recyclerview_divider1.xml" value="0.2526041666666667" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_avenger.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_classic350.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_continental.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_ct100.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_dominar.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_fzs.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_fzx.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_himalayan.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_interceptor.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_intruder.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_ktm_bikes_list.xml" value="0.19429347826086957" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_meteor.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_mt15.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_panigale_v2.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_passion.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_platina100.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_pulsar150.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_rc200.xml" value="0.1" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_royal_bikes_list.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_splendor_plus.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_super_splendor.xml" value="0.14628623188405798" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_xpulse.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/activity_yzfr15.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/layout/list_item.xml" value="0.2105978260869565" />
+        <entry key="..\:/Users/YASH GARG/AndroidStudioProjects/BikeInformation/app/src/main/res/menu/menu_item.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

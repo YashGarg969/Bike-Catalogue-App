@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.bikeinformation">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/images"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/images"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.BikeInformation">
+        <activity
+            android:name=".Splendor_Plus"
+            android:exported="false" />
+        <activity
+            android:name=".passion"
+            android:exported="false" />
+        <activity
+            android:name=".xpulse"
+            android:exported="false" />
+        <activity
+            android:name=".super_splendor"
+            android:exported="false" />
+        <activity
+            android:name=".avenger"
+            android:exported="false" />
+        <activity
+            android:name=".platina100"
+            android:exported="false" />
+        <activity
+            android:name=".dominar"
+            android:exported="false" />
+        <activity
+            android:name=".ct100"
+            android:exported="false" />
+        <activity
+            android:name=".pulsar150"
+            android:exported="false" />
+        <activity
+            android:name=".fzx"
+            android:exported="false" />
+        <activity
+            android:name=".fzs"
+            android:exported="false" />
+        <activity
+            android:name=".yzfr15"
+            android:exported="false" />
+        <activity
+            android:name=".mt15"
+            android:exported="false" />
+        <activity
+            android:name=".meteor"
+            android:exported="false" />
+        <activity
+            android:name=".interceptor"
+            android:exported="false" />
+        <activity
+            android:name=".continental"
+            android:exported="false" />
+        <activity
+            android:name=".himalayan"
+            android:exported="false" />
+        <activity
+            android:name=".classic350"
+            android:exported="false" />
+        <activity
+            android:name=".Duke125"
+            android:exported="true" />
+        <activity
+            android:name=".RC390"
+            android:exported="true" />
+        <activity
+            android:name=".Duke200"
+            android:exported="true" />
+        <activity
+            android:name=".RC200"
+            android:exported="true" />
+        <activity
+            android:name=".Monster"
+            android:exported="true" />
+        <activity
+            android:name=".Panigale_V2"
+            android:exported="true" />
+        <activity
+            android:name=".Scrambler"
+            android:exported="true" />
+        <activity
+            android:name=".Panigale_V4"
+            android:exported="true" />
+        <activity
+            android:name=".jawa42"
+            android:exported="true" />
+        <activity
+            android:name=".Jawa_Perak"
+            android:exported="true" />
+        <activity
+            android:name=".rmz250"
+            android:exported="true" />
+        <activity
+            android:name=".intruder"
+            android:exported="true" />
+        <activity
+            android:name=".gixxersf"
+            android:exported="true" />
+        <activity
+            android:name=".hayabusa"
+            android:exported="true" />
+        <activity
+            android:name=".Suzuki_bikes_list"
+            android:exported="true" />
+        <activity
+            android:name=".show"
+            android:exported="true" />
+        <activity
+            android:name=".Ktm_bikes_list"
+            android:exported="true" />
+        <activity
+            android:name=".Ducati_bikes_list"
+            android:exported="true" />
+        <activity
+            android:name=".Jawa_bikes_list"
+            android:exported="true" />
+        <activity
+            android:name=".Royal_bikes_list"
+            android:exported="true" />
+        <activity
+            android:name=".Yamaha_bikes_list"
+            android:exported="true" />
+        <activity
+            android:name=".bajaj_bikes_list"
+            android:exported="true" />
+        <activity
+            android:name=".Hero_Bikes"
+            android:exported="true" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
